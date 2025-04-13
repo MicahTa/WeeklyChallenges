@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\micah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
