@@ -6733,11 +6733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\C#\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\C#\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "packagesPath": "C:\\Users\\micah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
+      "outputPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\C#\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6759,8 +6759,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
-              "projectPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
+            "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\C#\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+              "projectPath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\C#\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
             }
           }
         }
